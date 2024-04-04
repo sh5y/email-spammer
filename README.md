@@ -1,0 +1,8 @@
+email spammer using gmail app password auth
+go to: https://myaccount.google.com/apppasswords
+login to gmail you want to use
+copy app password that you create e.g. "sdhxi sjxna suclq cbfjs"
+paste into .py 
+go to recipient_emails.txt
+paste emails you want to send to
+at bottom of .py edit the time.sleep(x) to how many seconds delay you want
